@@ -8,9 +8,6 @@ This is the backend for an AI-powered insurance policy chatbot that utilizes Ret
 
 ├── .ipynb_checkpoints/ # Jupyter notebook auto-checkpoints (ignored) ├── documents/ │ └── t100-policy.pdf # Demo PDF used for implementing RAG ├── venv/ # Virtual environment (ignored) ├── .env # Environment variables (ignored) ├── app.py # Flask app entry point ├── requirements.txt # Python dependencies └── test.ipynb # Notebook with full RAG implementation using Langchain and Pinecone
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -47,9 +44,6 @@ Use this notebook to explore, modify, or test the RAG pipeline with other docume
 🛡️ .gitignore
 Make sure your .gitignore includes the following to avoid pushing sensitive or unnecessary files:
 
-bash
-Copy
-Edit
 .env
 venv/
 .ipynb_checkpoints/
