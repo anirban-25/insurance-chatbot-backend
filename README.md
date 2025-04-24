@@ -16,7 +16,7 @@ This is the backend for an AI-powered insurance policy chatbot that utilizes Ret
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/insurance-chatbot-backend.git
+git clone https://github.com/anirban-25/insurance-chatbot-backend.git
 cd insurance-chatbot-backend
 2. Install Dependencies
 
