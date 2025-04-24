@@ -22,16 +22,11 @@ Edit
 git clone https://github.com/your-username/insurance-chatbot-backend.git
 cd insurance-chatbot-backend
 2. Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 Make sure you are using Python 3.8 or higher.
 
 3. Run the Flask App
-bash
-Copy
-Edit
 python app.py
 The Flask server will start on http://localhost:5000.
 
